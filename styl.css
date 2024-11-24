@@ -1,0 +1,29 @@
+ *{
+    margin:0px;
+    padding:0px;
+    font-family:'poppins',sans-serif;
+    box-sizing:border-box;
+}
+body{
+    display:flex;
+   
+    background:url("image3.jpg") no-repeat;
+    align-items:center;
+    min-height:100vh;
+    justify-content:center;
+   box-shadow:0 0 10px rgba(0,0,0,.1); 
+   background-size:cover;
+   background-position:center;
+}
+.good{
+    align-items:center;
+   
+    width:720px;
+    background:2px solid,rgba(255 255 255 .2);
+    border-radius:10px;
+    padding :30px 40px;
+    backdrop-filter:blur(20px);
+    box-shadow: 0 0 10px rgba(0, 0,0,.1);
+    background-color: white(216, 30, 30);
+
+}
